@@ -11,3 +11,4 @@ Both parties receive the output of their function.
 In order to establish the P2P connection, we use PeerJS, a JavaScript library framework. The server initiates a connection between the two peers, following which
 all communication is carried out by the peers with no involvement of the server. 
 
+(Currently we have created a ChatApp with a server intermediary, updates will follow). 
